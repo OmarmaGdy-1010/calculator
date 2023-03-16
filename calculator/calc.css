@@ -1,0 +1,35 @@
+#calc {
+    width: 400px;
+    font-size: 30px;
+    margin-top: 10px;
+    background-color: #ffffff;
+}
+
+.screen {
+    width: 400px;
+    height: 25px;
+    border: 0;
+    padding: 50px 0px 50px 15px;
+    font-size: 37px;
+    letter-spacing: 2px;
+}
+
+
+.num {
+    width: 415px
+}
+
+input[type="button"] {
+    width: 100%;
+    height: 70px;
+    font-weight: 600;
+    border-radius: 10px;
+    background: #eee;
+    font-size: 28px;
+}
+
+
+.equal {
+    color: white;
+    background-color: rgb(35, 83, 172) !important
+}
